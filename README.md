@@ -9,3 +9,5 @@
 <p>Lesson 3: User input </p>
 
 <p>Lesson 4: Type conversion</p>
+
+<p>Lesson 5: Math functions and packages(crypto/rand and math/rand)</p>
