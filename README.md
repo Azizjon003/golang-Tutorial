@@ -11,3 +11,5 @@
 <p>Lesson 4: Type conversion</p>
 
 <p>Lesson 5: Math functions and packages(crypto/rand and math/rand)</p>
+
+<p>Lesson 6: Time functions and packages</p>
