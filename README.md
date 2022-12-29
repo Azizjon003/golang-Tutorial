@@ -13,3 +13,4 @@
 <p>Lesson 5: Math functions and packages(crypto/rand and math/rand)</p>
 
 <p>Lesson 6: Time functions and packages</p>
+<p>Lesson 7: GOOS building "darvin" "linux" "windows"</p>
