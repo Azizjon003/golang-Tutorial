@@ -2,6 +2,7 @@
 
 <h1>Golang(go) tutorial by #azizjon</h1>
 
+<h2> Golang Types and variables </h2>
 <p>Lesson 1: Hello world</p>
 
 <p>Lesson 2: Variables and types</p>
