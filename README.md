@@ -17,3 +17,6 @@
 <p>Lesson 7: GOOS building "darvin" "linux" "windows"</p>
 
 <h2> Golang memory Management </h2>
+
+<p>Lesson 8: Memory management (lecture)</p>
+<p>Lesson 9: Pointers</p>
