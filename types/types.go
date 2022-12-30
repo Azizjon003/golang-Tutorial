@@ -16,7 +16,7 @@ fmt.Println(smalVal)
 fmt.Printf("this variable is of type %T \n", smalVal)
 
 // implicit type
-var implicitVal =  254;
+var implicitVal int8 =  127;
 fmt.Println(implicitVal)
 fmt.Printf("this variable is of type %T \n", implicitVal)
 
