@@ -12,7 +12,7 @@ func main()  {
 	fmt.Println("THis is fruit array",fruitArr)
 
 	var arr = [...]int{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
-	fmt.Println("This is arr",arr[0])
+	fmt.Println("This is arr",arr)
 	fmt.Println("This is arr length :(",len(arr),")")
 	// fmt.Println(Sum(&arr))s
 }
