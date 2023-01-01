@@ -20,3 +20,5 @@
 
 <p>Lesson 8: Memory management (lecture)</p>
 <p>Lesson 9: Pointers</p>
+<p>Lesson 10: Arrays</p>
+<p>Lesson 11: Slices</p>
