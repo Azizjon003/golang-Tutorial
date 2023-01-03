@@ -23,4 +23,8 @@
 <p>Lesson 10: Arrays</p>
 <p>Lesson 11: Slices</p>
 <p>Lesson 12: Maps</p>
-<p>Lesson 11: Structures</p>
+<p>Lesson 13: Structures</p>
+<p>Lesson 14: IfElse</p>
+<p>Lesson 15: SwitchCase</p>
+<p>Lesson 16: Loops</p>
+<p>Lesson 17: Functions</p>
