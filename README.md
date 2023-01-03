@@ -22,3 +22,5 @@
 <p>Lesson 9: Pointers</p>
 <p>Lesson 10: Arrays</p>
 <p>Lesson 11: Slices</p>
+<p>Lesson 12: Maps</p>
+<p>Lesson 11: Structures</p>
